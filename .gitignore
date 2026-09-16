@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.cache/
+dist/
+build/
+*.log
+.DS_Store
+.env
+.env.*
+*.env
+.github-token
+_backup_local_changes/
+_to_delete/
